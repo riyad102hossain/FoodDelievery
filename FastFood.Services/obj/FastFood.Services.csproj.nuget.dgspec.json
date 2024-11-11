@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj": {}
+    "D:\\Github\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj": {}
   },
   "projects": {
-    "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj": {
+    "D:\\Github\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj",
+        "projectUniqueName": "D:\\Github\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj",
         "projectName": "FastFood.Services",
-        "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj",
+        "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\obj\\",
+        "outputPath": "D:\\Github\\FoodDelievery\\FastFood.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj",
+      "projectUniqueName": "D:\\Github\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj",
       "projectName": "FastFood.Models",
-      "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj",
+      "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\obj\\",
+      "outputPath": "D:\\Github\\FoodDelievery\\FastFood.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

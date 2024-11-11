@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj",
+      "projectUniqueName": "D:\\Github\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj",
       "projectName": "FastFood.Repositories",
-      "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj",
+      "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Repositories\\obj\\",
+      "outputPath": "D:\\Github\\FoodDelievery\\FastFood.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -813,8 +813,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj": {
-              "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj"
+            "D:\\Github\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj": {
+              "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj"
             }
           }
         }

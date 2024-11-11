@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8cHNi6nsJHDqjvTN3ZHRkRRV6eWGrzOVXUyhuRSllThosdaLgpxXqH8M2xG3mM/1iNUZVLCfuHNorj1G7DKPww==",
+  "dgSpecHash": "FqCjXqnzt8GBPp95GGJHWaRSSq7svxORmD5+19hOOUrUhMYFhp71h+RjB+CTz0EB5Zy/R+ubcAu9//P6UHOt/A==",
   "success": true,
-  "projectFilePath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Web\\FastFood.Web.csproj",
+  "projectFilePath": "D:\\Github\\FoodDelievery\\FastFood.Web\\FastFood.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

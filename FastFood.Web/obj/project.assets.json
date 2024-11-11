@@ -11526,11 +11526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Web\\FastFood.Web.csproj",
+      "projectUniqueName": "D:\\Github\\FoodDelievery\\FastFood.Web\\FastFood.Web.csproj",
       "projectName": "FastFood.Web",
-      "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Web\\FastFood.Web.csproj",
+      "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Web\\FastFood.Web.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Web\\obj\\",
+      "outputPath": "D:\\Github\\FoodDelievery\\FastFood.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11548,14 +11548,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj": {
-              "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj"
+            "D:\\Github\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj": {
+              "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Models\\FastFood.Models.csproj"
             },
-            "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj": {
-              "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj"
+            "D:\\Github\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj": {
+              "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Repositories\\FastFood.Repositories.csproj"
             },
-            "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj": {
-              "projectPath": "D:\\riyad_project\\Asp.Net\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj"
+            "D:\\Github\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj": {
+              "projectPath": "D:\\Github\\FoodDelievery\\FastFood.Services\\FastFood.Services.csproj"
             }
           }
         }
